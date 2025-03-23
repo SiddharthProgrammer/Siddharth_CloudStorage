@@ -1,5 +1,3 @@
-# Siddharth_CloudStorage
-
 # 🌥️ MultiCloud Storage Manager
 
 ## Overview
@@ -54,7 +52,14 @@ multicloud-storage-manager/
 │── frontend/         # React.js frontend
 │── database/         # SQL scripts
 │── README.md         # Project documentation
+│── images/           # Screenshots
 ```
+
+## 📷 Screenshots
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
+![Screenshot 4](4.png)
 
 ## 💡 Future Enhancements
 - Support for additional cloud storage providers.
@@ -70,5 +75,4 @@ This project is licensed under the MIT License.
 ---
 
 🔗 **Connect with us:** [GitHub](https://github.com/yourusername/multicloud-storage-manager)
-
 
