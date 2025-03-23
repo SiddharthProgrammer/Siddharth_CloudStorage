@@ -1,4 +1,4 @@
-# 🌥️ MultiCloud Storage Manager
+# 🌥️ Siddharth's Storage Manager
 
 ## Overview
 **MultiCloud Storage Manager** is a web application that allows users to connect and manage multiple cloud storage platforms from a single interface. It provides seamless integration with various cloud services, enabling efficient file storage, retrieval, and synchronization.
