@@ -1,0 +1,8 @@
+com\example\springbootreactintegration\controller\FileController.class
+com\example\springbootreactintegration\model\FileMetadata.class
+com\example\springbootreactintegration\config\WebConfig.class
+com\example\springbootreactintegration\service\impl\FileMetadataServiceImpl.class
+com\example\springbootreactintegration\repository\FileRepository.class
+com\example\springbootreactintegration\service\FileMetadataService.class
+com\example\springbootreactintegration\SpringBootReactIntegrationApplication.class
+com\example\springbootreactintegration\model\FileEntity.class
